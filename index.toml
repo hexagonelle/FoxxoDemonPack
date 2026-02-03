@@ -1985,11 +1985,6 @@ file = "config/passthroughsigns-common.toml"
 hash = "f9619a2d46945c17a41f41eccf10acd080175133aa84c6eaad28a948e2f08381"
 
 [[files]]
-file = "config/paxi/datapacks/all-tropical-fish-datapack.pw.toml"
-hash = "c11526a04596271ce6e799a17f749eb09503448dfbe187a44a0c88b1a656c108"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/better-end-cities-(vanilla).pw.toml"
 hash = "270b635e09de18250d51ddac162c90c04e17fc71fdb78c452a53078775e07394"
 metafile = true
@@ -2007,31 +2002,6 @@ metafile = true
 [[files]]
 file = "config/paxi/datapacks/dragon_egg_loot.pw.toml"
 hash = "14a3e9c502671b64d1714d4e2a4aa63a814aaef712824fde5b7f81182f09cc74"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/immersivegenerators.pw.toml"
-hash = "f5e91cb961f8b254959e9a3288bae81ab6c85c561aeeabce00c708cdd8663650"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/minimal_iw_growth.pw.toml"
-hash = "2209fedb706296bfb4ca641c6f4fc386c726a0154bef8f0192573a2aa5d9732e"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/sky-villages-farmers-delight-compat.pw.toml"
-hash = "17d268573ff09554e2b789b3979dfb11910c59cbe62e8e6792027c1aaa644ef7"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/sky-villages-supplementaries-compat.pw.toml"
-hash = "b3ee60512b91dcc47fcaa924bfa510a5420765179dbdf98647b510388e3a008e"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/sky-villages-waystones-compat.pw.toml"
-hash = "aa25c9766f0312cc9a7cdd4973ff737485c8f3b458755e293b8087ce75f3d2ae"
 metafile = true
 
 [[files]]
@@ -4071,7 +4041,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "bd231c766e25e2f3a5fbfa7e7b8ade2536fed16c3a5574dc30b212dc51a75044"
+hash = "8d3e9ef52ac3b65fb976629b55652ca30f9ad8b7ff37925c3111ae78386e1a97"
 metafile = true
 
 [[files]]
