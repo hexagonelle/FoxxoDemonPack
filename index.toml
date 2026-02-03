@@ -3205,6 +3205,11 @@ hash = "18b585d0f14984c5548eb9df3d56a5758482615c65db8260ef6038a3c8ee7acc"
 metafile = true
 
 [[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "8e528d7f5f6d674c5988c9baab1f46d0fc29719a1350f96eab57ff90d8e81306"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "3b4408ce2399f0ce9bab2243f3255c73d26f4113bc2438974ca47267ef9df7ea"
 metafile = true
@@ -3537,11 +3542,6 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
-metafile = true
-
-[[files]]
-file = "mods/enchanting-system-overhaul.pw.toml"
-hash = "787fe732ddfee0d2db60e2fbf54127264fc34b34ff8fae3735e9ff6ac48fecc5"
 metafile = true
 
 [[files]]
