@@ -4060,11 +4060,6 @@ hash = "968e14e9f71820264208b5b9690f58ff7258b06863104c41a7752b1561491cb4"
 metafile = true
 
 [[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
-metafile = true
-
-[[files]]
 file = "mods/sodium-options-mod-compat.pw.toml"
 hash = "59594325144bb9f970d43990071858e56044560c9b77cce74b79e4fcb4b41f70"
 metafile = true
@@ -4152,11 +4147,6 @@ metafile = true
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "892dd095d1ae9aca8e2ef775fddf28677cd7cfbb6407d52bbbd8cc4a15286bb8"
-metafile = true
-
-[[files]]
-file = "mods/trash-slot.pw.toml"
-hash = "db191f30b9c8c689a2d9ef826906a043f7849475b0a247590438f3c675d1a557"
 metafile = true
 
 [[files]]
