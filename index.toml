@@ -30,7 +30,7 @@ hash = "6e9d2ee6e6e6334533a59e948fd092da75212bd9ead6c20c804bb88c849d30ac"
 
 [[files]]
 file = "config/adchimneys-common.toml"
-hash = "abeec32ccf55339af3c339301533d3eb210fdfa31bc58d84d87b3e39da6b32c8"
+hash = "45ab23631add67c9322503988790d2749a9628780805f790b2418bb452ce295d"
 
 [[files]]
 file = "config/adchimneys/Emitters/bakery$brick_stove.cfg"
@@ -1386,7 +1386,7 @@ hash = "6da41c3527b9a8c8b7c954a8d695b196eb492f6ea26ec71f7208461732405a95"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "5f4c2d14aff9766c13367825602103b12ad4c844a858f04058b3787a053715a5"
+hash = "8de4a5a062e560ce82723fe165b0873c5a88b422b2178f4445bd5ade5081d8f7"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
