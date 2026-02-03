@@ -1,0 +1,13 @@
+name = "Trash Slot"
+filename = "trashslot-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FDJFKY9k/versions/SmU6BA4b/trashslot-1.0.0.jar"
+hash-format = "sha512"
+hash = "2e8ee2378b3453c5d3eb151c6b02e79f6361596629e818ab5ce1e7f7ace3eeec334e48df1c9eb29956715dfde548fabdd550a08c484d1c644392bbfc086c9ba1"
+
+[update]
+[update.modrinth]
+mod-id = "FDJFKY9k"
+version = "SmU6BA4b"

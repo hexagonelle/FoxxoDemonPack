@@ -1,0 +1,13 @@
+name = "EXP Counter"
+filename = "expcounter-1.20.1-forge-2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lPSTdJm7/versions/wfMr5rnM/expcounter-1.20.1-forge-2.2.jar"
+hash-format = "sha512"
+hash = "95c286f12cca0146723af2210bacb3638326a65c8f6209959c411f60ef3ce55ca8004f3676a83cd71d9e0a989b16121315cd871b7d75e4b107883a29256ba34d"
+
+[update]
+[update.modrinth]
+mod-id = "lPSTdJm7"
+version = "wfMr5rnM"

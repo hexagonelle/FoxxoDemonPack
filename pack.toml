@@ -1,0 +1,13 @@
+name = "Foxxo Demon Pack"
+author = "hexagonelle"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "714f89d24ff4a6d23c9f9d08b150d759ae04801a1ca5382c65a84d7b00c8a1bc"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
