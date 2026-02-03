@@ -4060,11 +4060,6 @@ hash = "968e14e9f71820264208b5b9690f58ff7258b06863104c41a7752b1561491cb4"
 metafile = true
 
 [[files]]
-file = "mods/sodium-options-mod-compat.pw.toml"
-hash = "59594325144bb9f970d43990071858e56044560c9b77cce74b79e4fcb4b41f70"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "1d2b910e56a0abafd1230b076b519d48277e42d567ae82fac7ab2cfba37f4556"
 metafile = true
