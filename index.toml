@@ -2914,10 +2914,6 @@ file = "kubejs/server_scripts/almostunified.js"
 hash = "97605d1c1f3184ebf0241bd4ddbfc8cc8f857afc0ba50436c4aa472944eea263"
 
 [[files]]
-file = "kubejs/server_scripts/cataclysm_iw_quark_yungscaves.js"
-hash = "aeff54b45deb35dbc86271181a3e9af115fe59f0bb539d8e34d80cf212edebd7"
-
-[[files]]
 file = "kubejs/server_scripts/cluttered_magicvibe.js"
 hash = "e9a44a64175d156e22f93fefa70474bb989647923feb3552bfa50aecf7c7aed9"
 
@@ -3554,6 +3550,11 @@ hash = "0a83314a5c0d8d8f356bd3a8a7a57a0b09133855a59c8ec6791a470c174d57ee"
 metafile = true
 
 [[files]]
+file = "mods/in-control.pw.toml"
+hash = "66e31f260f763f9643e4efd3af083fb2b9810c49cbc221cec82caf82ec19222a"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "f8312021fd88a4952e1d50a2f156fab65314f87658d7153efc56be76a422d5cd"
 metafile = true
@@ -3704,6 +3705,11 @@ hash = "37a45e147305e5d15b0abfe2a7201781ebc826396897d39938df78287c318cd2"
 metafile = true
 
 [[files]]
+file = "mods/morejs.pw.toml"
+hash = "fc6c3ef7784d2da83201a262e90dfa01c4cd5cf1e65ec3fd68e8662572c90e88"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
@@ -3821,6 +3827,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
+metafile = true
+
+[[files]]
+file = "mods/plushie.pw.toml"
+hash = "99b0c10c575e0dde89e6c856fc4576a3e68e998861f1be53ff462e3b79b22203"
 metafile = true
 
 [[files]]
