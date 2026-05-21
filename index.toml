@@ -2882,6 +2882,10 @@ file = "kubejs/assets/kubejs/textures/item/litematic_staff.png"
 hash = "e40cd96833ab5b890888ffa783fa19ea2773a7bdfb951a7f5b6ba3db0bf6f50e"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/recall_gem.png"
+hash = "39ccad9b152db0e6995f6bd76b29d43ea6df81d60a39f7b13a4b670b8edd52e6"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/soul_lantern.png"
 hash = "af522e27edccf029ed46443d990ecadace87fbe87161c2926f938162783ede86"
 
@@ -2948,6 +2952,10 @@ hash = "6b312d6ad0d8d0f0f681563fc330be3e386dc09286115647510b5d69ed40641e"
 [[files]]
 file = "kubejs/server_scripts/custom-huelamps.js"
 hash = "f505658aa7694962c2a461ea6208ee07023e465e986aaef80e220d8a6542dce7"
+
+[[files]]
+file = "kubejs/server_scripts/custom-recallgem.js"
+hash = "657a7468a792a5a1c60ae449e471c80f49012722dcdb4a8aa035507bb535c76a"
 
 [[files]]
 file = "kubejs/server_scripts/custom-witherskellytweaks.js"
@@ -3040,6 +3048,10 @@ hash = "819eb9a7b9a5dd9f29fcdb4608e3ef6a782ed90d228e44a4c0f5957d042e54ae"
 [[files]]
 file = "kubejs/startup_scripts/custom-litematicstaff.js"
 hash = "dc4ee2cb355296519b90cdc99625887bdaf3867deb89c2c8f7c0b89e9e97eca6"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-recallgem.js"
+hash = "afd717bd71c146af55d51a6d598afc66a97d48e7ed5a92d8daf8ffcd0676372b"
 
 [[files]]
 file = "kubejs/startup_scripts/custom-witherskellytweaks.js"
@@ -3325,6 +3337,11 @@ hash = "bfd2911d1fc7136f92be93d4e3081b85f30109373ac640fbac2e3b3896d709f2"
 metafile = true
 
 [[files]]
+file = "mods/dracolotl.pw.toml"
+hash = "d517cc778b133adbba076a19b92750fda82e653b844750af3b8c222f646283ab"
+metafile = true
+
+[[files]]
 file = "mods/draggable-lists.pw.toml"
 hash = "bfe939f563e561df6410a82e9f36ec3793634e470c9b729088072ff8824018ac"
 metafile = true
@@ -3555,6 +3572,11 @@ hash = "66e31f260f763f9643e4efd3af083fb2b9810c49cbc221cec82caf82ec19222a"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "e87e55d35c6a335f35329b1356c8c40589f6b955b4933614f03d6c8b747f1476"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "f8312021fd88a4952e1d50a2f156fab65314f87658d7153efc56be76a422d5cd"
 metafile = true
@@ -3602,6 +3624,11 @@ metafile = true
 [[files]]
 file = "mods/leawind-third-person.pw.toml"
 hash = "0c6a080492d16f771194bf297614b086d9130be598dc9a098a6d5cc3559357d2"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
 metafile = true
 
 [[files]]
