@@ -2,13 +2,27 @@ ServerEvents.recipes(event => {
 	const { kubejs } = event.recipes;
 
 	kubejs
-	.shapeless("wizards_reborn:arcane_gold_nugget",
+	.shapeless("wizards_reborn:arcane_gold_scythe",
 		[
 			"wizards_reborn:arcane_gold_ingot",
 			"wizards_reborn:arcane_gold_scythe"
 		]
 	)
-	.damageIngredient("wizards_reborn:arcane_gold_scythe",-100);
+	.modifyResult((grid,result)=> {
+
+	let scythe = grid.find(Item.of("wizards_reborn:arcane_gold_scythe"));
+
+	const nbt = scythe.nbt || {};
+	if ('Damage' in nbt) {
+		nbt.Damage = Math.max(0, nbt.Damage - 200); // Reset the damage value
+		scythe.setNbt(nbt); // Apply the modified NBT
+	}
+
+	// returnScythe.putInt('Damage',newDamage);
+	return scythe
+
+})
+	// )
 
 	kubejs
 	.shapeless("wizards_reborn:raw_arcane_gold",
@@ -17,8 +31,9 @@ ServerEvents.recipes(event => {
 			"minecraft:raw_gold"
 		]
 	)
+})
 
-});
+// ServerEvents.modifyRecipeResult('wizards_reborn:repair_scythe')
 
 
 const PROTECTED_TOOLS = [
